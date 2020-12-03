@@ -1,0 +1,22 @@
+git commands:
+
+git config --global user.name "uname"
+git config --global user.emal "uemail"
+git init 
+git add
+git commit -m "ss"
+git push origin master 
+git pull
+git log
+git stash
+git diff
+git branch
+git checkout master or child (anybranch name)
+git merge
+git status
+git fetch
+git head
+git Rm
+git revert
+git reset
+git clone
